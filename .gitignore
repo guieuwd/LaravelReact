@@ -1,0 +1,7 @@
+/vendor
+.env
+.DS_Store
+.vscode
+vendor
+docker-compose_remove_yml.txt
+README.MD.LOCAL
